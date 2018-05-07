@@ -18,3 +18,4 @@ To build
 To run:
 ./gradlew bootrun
 ```
+10. Boot runs on the embedded tomcat server.

@@ -1,6 +1,6 @@
-##README
+## README ##
 
-###Description:
+### Description ###
 1. Gradle based project using spring boot.
 2. The end points are of O(1) having constant time and space complexity.
 3. The code runs assuming precision levels to add and retrieve statistics.
